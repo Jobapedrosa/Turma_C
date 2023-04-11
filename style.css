@@ -7,8 +7,8 @@
     background-color: rgb(176, 118, 229);
     color: white;
     display: flex;
-    padding: 24px;
     justify-content: space-around;
+    padding: 24px 0;
 }
 .cabeçalho-imagem {
     width: 5%;
@@ -19,4 +19,16 @@
     font-size: 30px;
     padding: 0 0 0 20px;
 }
+.escola {
+    background-color: rgb(134, 61, 202);
+    color: white;
+    font-size: 21px;
+    padding: 300px 250px;
+}
+.escola-titulo {
+    padding: 24px 0;
+}
+
+
+
     
